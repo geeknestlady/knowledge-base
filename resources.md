@@ -20,6 +20,20 @@ As this list grows, it may be helpful to include information on _why_ this resou
 
 [Hour of Code](https://hourofcode.com/us) - The Hour of Code is a global movement reaching tens of millions of students in 180+ countries.
 
+## Programming Prompts
+
+_Use these to hone your skills, or as whiteboarding practice prompts_
+
+[HackerRank](https://exercism.io/)
+
+[Project Euler](https://projecteuler.net/) - Math Heavy
+
+[Exercism.io](https://exercism.io/)
+
+[Kattis](https://open.kattis.com/)
+
+[Code Kata](http://codekata.com/)
+
 ## Tackling Imposter Syndrome
 
 [On Imposter Syndrome](https://medium.com/@thekeithchester/on-imposter-syndrome-687288a46c26) - By our very own, Keith Chester!
