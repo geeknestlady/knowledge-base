@@ -1,5 +1,7 @@
 # Personal Branding Resources
 
+[Quick Guide to Networking for Introvert](http://careerrocketeer.com/2014/10/quick-guide-networking-for-introverts.html)
+
 [How To Reverse Engineer Your Career (Even If You're Not An Engineer)](https://www.forbes.com/sites/lisaquast/2015/02/16/how-to-reverse-engineer-your-career-even-if-youre-not-an-engineer/#24eb545f592b)
 
 [How to Master the 3 Moments of Truth for Job Seekers](https://jobmob.co.il/blog/self-marketing-tips-job-seekers/)
