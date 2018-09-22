@@ -1,3 +1,5 @@
+Resources shared in "The Jumpstarters" Mastermind group
+
 https://leetcode.com/explore/
 
 https://www.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/
