@@ -34,19 +34,9 @@ _Use these to hone your skills, or as whiteboarding practice prompts_
 
 [Code Kata](http://codekata.com/)
 
-## Tackling Imposter Syndrome
+## General Computing Concepts
 
-[On Imposter Syndrome](https://medium.com/@thekeithchester/on-imposter-syndrome-687288a46c26) - By our very own, Keith Chester!
-
-## Career Development
-
-[So Good They Can't Ignore You](http://calnewport.com/books/so-good/) by Cal Newport
-
-[Deep Work](http://calnewport.com/books/deep-work/) by Cal Newport
-
-## Personal Development
-
-[7 Habits of Highly Effective People](https://www.franklincovey.com/the-7-habits.html) - A great approach to identifying your goals and building habits to help you acheive them.
+Code by Charles Petzold - The Hidden Language of Computer Hardware and Software
 
 ## Learning Skills
 
@@ -54,6 +44,68 @@ _Use these to hone your skills, or as whiteboarding practice prompts_
 
 [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential - Coursera](https://www.coursera.org/learn/mindshift)
 
-## Time Management
+## Interview Skills
+
+Programming Interviews Exposed by John Mongan 
+
+Cracking the Coding Interview by Gayle Laakmann McDowell 
+
+## Personal Development
+
+[7 Habits of Highly Effective People](https://www.franklincovey.com/the-7-habits.html) - A great approach to identifying your goals and building habits to help you acheive them.
+
+[Bullet Journaling](https://bulletjournal.com/) - Flexible Journaling Framework Focused on Producticvity
 
 [Time Management Fundamentals - Lynda](https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/397387-2.html)
+
+[On Imposter Syndrome](https://medium.com/@thekeithchester/on-imposter-syndrome-687288a46c26) - By our very own, Keith Chester!
+
+[The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) - Split up your day into blocks with breaks
+
+## Career Development
+
+_Resources for growing general career skills_
+
+[So Good They Can't Ignore You](http://calnewport.com/books/so-good/) by Cal Newport
+
+[Deep Work](http://calnewport.com/books/deep-work/) by Cal Newport
+
+The First 90 Days by Michael D. Watkins - Proven Strategies for Getting Up to Speed Faster and Smarter
+
+Soft Skills: The software developer's life manual by John Sonmez - Best Practices, Work Methods, Financial Literacy, and Personal Health
+
+The Mythical Man-Month by Frederick P. Brooks Jr. - A Collection of Essays on Collaborative Development
+
+## Developer Skills
+
+_Resources for Designing and Improving Software_
+
+Clean Code by Robert Martin - How to build readable, and therefore maintainable, code
+
+Refactoring by Martin Fowler -  Improving the Design of Existing Code 
+
+Programming Pearls by Jon Bentley - Choosing the right algorithims and solving code efficiently
+
+Domain-Driven Design by Eric Evan - Tackling Complexity in the Heart of Software
+
+Working Effectively with Legacy Code by Michael Feathers - Strategies for working more effectively with large, untested legacy code bases.
+
+## Architecture Skills
+
+Patterns of Enterprise Application Architecture by Martin Fowler - A handbook of solutions that are applicable to any enterprise application platform.
+
+Clean Architecture by Robert C. Martin - A Craftsman's Guide to Software Structure and Design
+
+## DevOps Skills
+
+The Phoenix Project by Gene Kim - How to improve IT organizations
+
+Site Reliability Engineering by Niall Richard Murphy, Betsy Beyer, Chris Jones, and Jennifer Petoff - How Google Runs Production Systems
+
+Continuous Delivery by Jez Humble - Reliable Software Releases through Build, Test, and Deployment Automation
+
+## Design Skills
+
+The Design of Everyday Things by Donald A. Norman - A primer on how-and why-some products satisfy customers while others only frustrate them.
+
+Don't Make Me Think by Steven Krug - A Common Sense Approach to Web Usability
